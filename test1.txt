@@ -1,0 +1,51 @@
+BOOKSHARE
+
+Amit is a student who eagerly wants to study the Harry potter series but due to lack of funds can’t buy the entire series. Sad and depressed but can’t do anything.
+Shreya has the entire series and has already read it, it stays at the corner-dusty and dim. Occupies space but the emotional attachment doesn’t permit her to discard the books.
+
+People have encountered this problem. The worth of a book for the owner goes to zero after one or two reads. We would to use this as an opportunity to present our new idea- BookShare. BookShare will be a platform to share books with fellow readers in your city.
+
+We strongly believe that reading is one of the most pleasurable activities and that every willing soul should have easy and cheap access to books. To achieve this goal and more,we would like people to share books with an advantage. The advantage being the ability to turn the intrinsic value of the book into cash. 
+
+HOW IT WORKS
+
+Each member uploads the title of all the books he owns and is willing to share with other people. There will be two kinds of accounts. A free account, which can be used for sharing books only and a paid account for getting the books delivered to them. The one time interest free refundable membership fee will be used as security. 
+
+ 
+
+HOW IT BENEFITS YOU
+The model encompasses the use of a virtual currency in the community in the form of credits. The cost of services will be as follows:
+•	5% of the book MRP – You pay to borrow a book for a period of 7 – 14 days. 
+•	3% of the book MRP – You earn to share a book for a period of 7-14 days.
+•	Rs 10 - delivery charges if books borrowed are under Rs. 1000.
+•	1% of the MRP per day – Late fee.
+So to borrow a book worth Rs. 300 for two weeks, you pay only Rs. 15. The book lender will have to cash the credits once his credits exceed a fixed amount, say Rs. 100. 
+This way, the borrower is happy to read the books he wants at a fraction of the cost of the book, while the lender is happy for earning good money from assets that were previously of no monetary value to him.
+
+REQUIRED INFRASTRUCTURE
+Our product would require the following infrastructure.
+•	A database of books and their MRP’s to facilitate correct valuation of the books. This task can be offloaded to the databases of popular e-commerce businesses selling books, like Flipkart and Amazon, etc. 
+•	Logistics – Since the delivery time from request will be 3-4 days, logistics can be outsourced to local courier companies or freelance workers. Gradually, logistics will be made in-house to maximize revenue. 
+•	An online presence – It will require a robust website which incorporates algorithms to offer enhanced search and personalized recommendations for the user. The website will also offer a social platform for book lovers where like people can create groups and discuss literature and recommend books to other members.
+REVENUE
+Our product will use multiple methods to generate revenue. Those methods can be broadly classified into three categories:
+•	Direct Revenue – This comprises of the profit generated due to the 2% margin integral to the business and the late fee revenue. Also, we earn interest on the security deposits as well as the credits bought/stored by users. For example, if we manage to lend 200 books, we have a margin of 2000 Rs minus the delivery charges.
+•	Advertisement – Advertisement revenue can be generated through selling adspace on the website, as well as including pamphlets/ads in the shipments. 
+•	Selling User Analytics – The website will be a goldmine of information related to trends and statistics related to book usage in particular demographics, locations, cities and economic groups. This data, without any public identifiers, can be sold to willing customers.
+
+MARKETING
+Marketing will comprise of engaging different sections of the population through mediums that suit those demographics best. 
+For school-going and college-going students, our advertisement can be carried out in newsletters and notice boards. 
+For the tech-savvy audience, an online campaign to encourage reading habits can be started on Facebook and in online groups. Targeted ads can be served to the visitors of e-commerce sites selling books, highlighting the benefits of sharing books over buying new ones or luring people into lending their books. 
+For the older audience, adspace can be bought in local dailies and pamphlets distributed in libraries and book clubs. 
+Also, to encourage people to join, the first time joining fee can be supplemented by a process where the user gives BookShare books worth Rs. 1000 (books must exist in our catalog of popular books). 
+
+THE FUTURE
+The future of BookShare will see the service expanding to multiple cities, starting from tier 1 cities and then moving to tier 3 cities, as operations will be cheap and adoption high due to high desirability to use a previously non accessible service. 
+Wherever possible, we will try to forge partnership with public libraries to increase the pool of book which can be lent. 
+As a CSR step, we will include the option to donate books directly to charity through our pick up service. This will help build goodwill and also help realize the founders’ dream of a future where reading is seen as a pleasure giving activity rather than something done out of necessity. 
+At a later stage, we would like to expand the service to buy and sell old as well as new books. This will build upon the strong book recommendation system and logistics we plan to achieve in the not so distant future.
+
+CONCLUSION
+Be it the internet, music, videos or the television media, the book is the only medium which has survived them all. The power of the written word is paramount and irreplaceable. And now that the world is getting smaller and social networking is the new normal, it is only natural that the power of Internet be used to propel reading to a higher dimension and that it becomes a central part of the new social fabric.
+BookShare is an honest, and more importantly, financially viable initiative to do the same.  We strongly believe in our product, and we welcome you to join in the exciting journey that lies ahead.
